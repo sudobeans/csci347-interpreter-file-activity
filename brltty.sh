@@ -1,4 +1,4 @@
-# Sky Duryee, Keagan (???), Tien Pham
+# Sky Duryee, Keagan Roth, Tien Pham
 
 #! /bin/bash
 
